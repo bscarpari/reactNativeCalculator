@@ -1,5 +1,7 @@
 # Trabalho 1 de PDM - Calculadora em React Native
 
+![Demonstração visual](https://raw.githubusercontent.com/bscarpari/reactNativeCalculator/master/Screenshot_1.png)
+
 ## Executar localmente
 
 - `npm i` (instalar todas as dependências)
