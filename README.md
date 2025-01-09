@@ -1,6 +1,6 @@
 # Simple React Native Calculator study 
 
-![Visual demonstration](https://raw.githubusercontent.com/bscarpari/reactNativeCalculator/master/Screenshot_1.png)
+![Visual demonstration](https://raw.githubusercontent.com/bscarpari/reactNativeCalculator/refs/heads/master/Screenshot_1.png?token=GHSAT0AAAAAAC4D5TZBUFUPIDNZTYVQ5I5EZ37YRIQ)
 
 ## Local
 
